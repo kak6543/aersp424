@@ -1,1 +1,2 @@
-# aersp424
+# AERSP 424
+# FALL 2024
